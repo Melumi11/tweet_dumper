@@ -1,7 +1,7 @@
 # tweet_dumper
 Download (all) past tweets from a twitter user
 
-To use, you have to create a Twitter developer account and create a project. Install tweepy (pip), and put your twitter dev API key, secret, access token, secret, and bearer token at the top of the file.
+To use, you have to create a Twitter developer account and create a project. Install tweepy (pip), and put your twitter dev API key, secret, access token, secret, and bearer token at the top of the tweet_dumper.py file.
 
 Specify the user who you want to download tweets from and how many tweets you want downloaded. Tweets are downloaded in order of latest.
 
